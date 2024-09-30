@@ -126,7 +126,8 @@ Jump to second line, position 2
 ## Procedure:
   1. click on STM 32 CUBE IDE
  2. click on FILE, click on new stm 32 project 
- 3. select the target to be programmed and click on next 
+ 3. select the target to be programmed and click on next
+
  4.select the program name 
  5. corresponding ioc file will be generated automatically 
  6.select the appropriate pins as gipo, in or out, USART or required options and configure 
